@@ -1,0 +1,23 @@
+.home__header {
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+  margin: auto -16px;
+  padding: 7px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home__header h1 {
+  color: #fff;
+  font-family: "Mclaren", cursive;
+  font-weight: 200;
+  cursor: context-menu;
+}
+
+.home__header p {
+  color: #fff;
+  font-family: "Mclaren", cursive;
+  font-weight: 200;
+  cursor: context-menu;
+}
